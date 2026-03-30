@@ -1,6 +1,6 @@
 # 💳 Credit Risk Prediction — End-to-End ML Pipeline
 
-A production-grade machine learning pipeline for predicting loan default risk, built from data ingestion through model deployment with a FastAPI REST API.
+A production grade machine learning pipeline for predicting loan default risk, built from data ingestion through model deployment with a FastAPI REST API.
 
 ---
 
